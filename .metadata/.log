@@ -1,0 +1,34 @@
+!SESSION 2022-10-06 07:52:02.369 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-10-06 07:52:15.341
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-10-06 07:52:15.432
+!MESSAGE Log4j initialized with config file D:\Git Micro\MC_Lab2\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-10-06 07:52:22.722
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2022-10-06 08:54:52.935 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  D:\Git Micro\MC_Lab2\Ex7\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data D:\Git Micro\MC_Lab2 D:\Git Micro\MC_Lab2\Ex7\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-10-06 08:54:56.223
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-10-06 08:54:56.264
+!MESSAGE Log4j initialized with config file D:\Git Micro\MC_Lab2\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-10-06 08:54:59.729
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-10-06 08:55:04.934
+!MESSAGE Indexed 'Ex7' (19 sources, 96 headers) in 3.13 sec: 7,450 declarations; 35,298 references; 6 unresolved inclusions; 295 syntax errors; 1,139 unresolved names (2.6%)
